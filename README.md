@@ -7,11 +7,11 @@ This is a simple repository to help the development of projects that want to cal
 
 ## Bitcoin Example
 
-Circulating Supply - 18,745,293
+Circulating Supply - 18,745,293 BTC
 
 Market Cap - $655,637,242,497
 
-Price - 34,976.10
+Price - $34,976.10
 
 ### Get Market Cap (Circulating Supply, Price)
 tinyMarketLib.getMarketCap(18745293, 34976.10);
