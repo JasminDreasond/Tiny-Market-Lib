@@ -1,4 +1,4 @@
-module.exports = {
+var tinyMarketLib = {
 
     // Rule 3
     rule3: function (val1, val2, val3, inverse) {
@@ -81,3 +81,5 @@ module.exports = {
     }
 
 };
+
+module.exports = tinyMarketLib;
