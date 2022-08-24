@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TinyPudding/Tiny-Market-Lib.git"
+    "url": "git+https://github.com/JasminDreasond/Tiny-Market-Lib.git"
   },
   "author": "Yasmin Seidel (JasminDreasond)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TinyPudding/Tiny-Market-Lib/issues"
+    "url": "https://github.com/JasminDreasond/Tiny-Market-Lib/issues"
   },
-  "homepage": "https://github.com/TinyPudding/Tiny-Market-Lib#readme"
+  "homepage": "https://github.com/JasminDreasond/Tiny-Market-Lib#readme"
 }
