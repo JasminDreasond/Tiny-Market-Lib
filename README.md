@@ -16,4 +16,5 @@ Price - 34,976.10
 ### Get Market Cap (Circulating Supply, Price)
 tinyMarketLib.getMarketCap(18745293, 34976.10);
 
+### Get Price by Market Cap (Market Cap, Circulating Supply)
 tinyMarketLib.getPriceByMarketCap(655637242497, 18745293);
