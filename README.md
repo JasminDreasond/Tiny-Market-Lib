@@ -3,6 +3,10 @@ Simple calculators to get prices or market cap of currencies and cryptocurrencie
 
 This is a simple repository to help the development of projects that want to calculate currencies exchange.
 
+```js
+const tinyMarketLib = require('tiny-market-lib');
+```
+
 <hr/>
 
 ## Bitcoin Example
