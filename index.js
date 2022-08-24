@@ -28,7 +28,7 @@ var tinyMarketLib = {
         18,745,293 * 34,976.10 = $655,637,242,497. 
         So Bitcoin market cap is $655,637,242,497 (655637242497).
 
-        this.getMarketCap(18745293, 3497610);
+        this.getMarketCap(18745293, 34976.10);
         this.getPriceByMarketCap(655637242497, 18745293);
     
     */
