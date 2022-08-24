@@ -29,8 +29,8 @@ Crypto Circulating Supply - 0.0118560 BNB
 
 Market Cap - 0.011856 BNB
 
-### Get Sell Amount (Token Amount, Crypto Supply, Token Supply, Fixer Value {OPTIONAL})
+### Get Sell Amount (Value Amount, Crypto Supply, Token Supply, Fixer Value {OPTIONAL})
 tinyMarketLib.getSellAmount(1, 0.0118560, 1.1778);
 
-### Get Buy Amount (Token Amount, Crypto Supply, Token Supply, Fixer Value {OPTIONAL})
+### Get Buy Amount (Value Amount, Crypto Supply, Token Supply, Fixer Value {OPTIONAL})
 tinyMarketLib.getBuyAmount(1, 0.0118560, 1.1778);
