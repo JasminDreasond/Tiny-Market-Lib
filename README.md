@@ -36,6 +36,9 @@ tinyMarketLib.getMarketCap(18745293, 34976.10);
 ### Get Price by Market Cap (Market Cap, Circulating Supply, Fixer Value {OPTIONAL})
 tinyMarketLib.getPriceByMarketCap(655637242497, 18745293);
 
+### Get Bitcoin Sell Amount (Amount, Market Cap, Bitcoin Supply, Fixer Value {OPTIONAL})
+tinyMarketLib.getSellAmount(1, 655637242497, 18745293);
+
 <hr/>
 
 ## Token Example
@@ -46,8 +49,8 @@ Crypto Circulating Supply - 0.0118560 BNB
 
 Market Cap - 0.011856 BNB
 
-### Get Sell Amount (Value Amount, Crypto Supply, Token Supply, Fixer Value {OPTIONAL})
+### Get Sell Amount (Amount, Crypto Supply, Token Supply, Fixer Value {OPTIONAL})
 tinyMarketLib.getSellAmount(1, 0.0118560, 1.1778);
 
-### Get Buy Amount (Value Amount, Crypto Supply, Token Supply, Fixer Value {OPTIONAL})
+### Get Buy Amount (Amount, Crypto Supply, Token Supply, Fixer Value {OPTIONAL})
 tinyMarketLib.getBuyAmount(1, 0.0118560, 1.1778);
