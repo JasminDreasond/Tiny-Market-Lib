@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://ipfs.io/ipfs/QmY7pndYL3fyK36FRkGozaaxXRGxJ1MZ66Ky3wyMe4RYTS?filename=tinywagfaster.gif" width="200">
 <p>
     <a href="https://discord.gg/TgHdvJd"><img src="https://img.shields.io/discord/413193536188579841?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a>
     <a href="https://www.npmjs.com/package/tiny-market-lib"><img src="https://img.shields.io/npm/v/tiny-market-lib.svg?maxAge=3600" alt="NPM version" /></a>
